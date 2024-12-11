@@ -41,7 +41,7 @@ body {
 .cursor {
   pointer-events: none;
   position: fixed;
-  padding: 0.3rem;
+  padding: 0.6rem;
   background-color: #b22222;
   border-radius: 50%;
   mix-blend-mode: difference;
