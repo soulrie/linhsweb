@@ -89,7 +89,7 @@ h3 {
 }
 
 .card__one .card__bg {
-  background: url('/Media/cbr.jpg') center / cover no-repeat;
+  background: url('cbr.jpg') center / cover no-repeat;
 }
 
 .card__two .card__img {
@@ -97,7 +97,7 @@ h3 {
 }
 
 .card__two .card__bg {
-  background: url('/Media/cardo.jpg') center / cover no-repeat;
+  background: url('cardo.jpg') center / cover no-repeat;
 }
 
 .card__three .card__img {
@@ -107,7 +107,7 @@ h3 {
 }
 
 .card__three .card__bg {
-  background: url('/Media/YOU.jpg') center / cover no-repeat;
+  background: url('YOU.jpg') center / cover no-repeat;
 }
 
 .card__text {
